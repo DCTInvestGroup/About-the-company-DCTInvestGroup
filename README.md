@@ -59,14 +59,14 @@ It is necessary to develop an organizational infrastructure that would be focuse
 
 # TEAM DCTIG 
 
-[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/photo%20profile/CEO%20%26%20CTO%20-%20Sergei%20Pletnev.png'></center>]
+<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/photo%20profile/CEO%20%26%20CTO%20-%20Sergei%20Pletnev.png'></center>
 
 - [Sergei Pletnev] 
 - [Facebook](https://www.facebook.com/sergei.pletnev.965)    - [Twitter](https://twitter.com/ps_sergei)
 
 CEO & CTO (Chief Executive Officer & Chief Technology Officer - experience in the field of economics for more than 10 years).
 
-[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/sidebar_sites_earth_world_globe_20458.png'></center>]
+<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/photo%20profile/CMO%20-%20Roman%20Khrystenko.png'></center>
 
 - [Roman Khrystenko] 
 - [Facebook](https://www.facebook.com/Rombik0428)    - [Twitter](https://twitter.com/Rombik0428)
