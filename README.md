@@ -60,15 +60,37 @@ It is necessary to develop an organizational infrastructure that would be focuse
 # TOKEN COMPANY
 
 - [ ] Name: DCT Invest Group
-Symbol: DCTIG
-Decimal: 8  
-Basis Blockchain: Ethereum
-DCTIG Token Type: ERC20
-Total Token Emission: 500.000.000 DCTIG 
+- [ ] Symbol: DCTIG
+- [ ] Decimal: 8  
+- [ ] Basis Blockchain: Ethereum
+- [ ] DCTIG Token Type: ERC20
+- [ ] Total Token Emission: 500.000.000 DCTIG 
 
 >By purchasing our tokens, investors become participants in our ecosystem.
 >The owners of DCTIG tokens get the right to absolutely legally perform transactions with tokens, trade them on stock exchanges and >receive part of the profits from the investment fund in the form of dividends. 
 >And also, in the future, all proceeds from liquidity events (acquisition of a controlling stake of the company by a certain strategic >investor or the company entry into the public market) will be used to buy out tokens, thus giving investors the opportunity to benefit >from the growth of their value.
+
+## In accordance with the norms of our company, investors need to go through the KYC procedure in order to purchase DCTIG tokens. 
+The KYC procedure is carried out by investors who invest more than 1 Ethereum in the company.
+
+# TOKEN SALE (ICO) DCTIG
+
+- [Total supply]: 	500.000.000 DCTIG
+
+Total supply: 	500.000.000 DCTIG
+General offer for TOKEN SALE: 	220.000.000 DCTIG
+Token name (symbol): 	DCTIG
+Token Type: 	ERC20 
+Price:	1 ETH = 50.000 DCTIG
+Limit of funds collected (HARD CAP): 	4400 ETH
+Minimum Invest: 	0.01 ETH
+Gwei  	10 
+Gas Limit 	100000
+Accepted cryptocurrency: 	ETH
+All unsold tokens will be destroyed (burned)
+
+
+
 
 
 # TEAM DCTIG 
