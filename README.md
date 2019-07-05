@@ -59,12 +59,12 @@ It is necessary to develop an organizational infrastructure that would be focuse
 
 # TOKEN COMPANY
 
-## Name: DCT Invest Group
-## Symbol: DCTIG
-## Decimal: 8  
-## Basis Blockchain: Ethereum
-## DCTIG Token Type: ERC20
-## Total Token Emission: 500.000.000 DCTIG 
+- [ ] Name: DCT Invest Group
+Symbol: DCTIG
+Decimal: 8  
+Basis Blockchain: Ethereum
+DCTIG Token Type: ERC20
+Total Token Emission: 500.000.000 DCTIG 
 
 >By purchasing our tokens, investors become participants in our ecosystem.
 >The owners of DCTIG tokens get the right to absolutely legally perform transactions with tokens, trade them on stock exchanges and >receive part of the profits from the investment fund in the form of dividends. 
