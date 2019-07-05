@@ -90,7 +90,7 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/1491579586-yumminkysocialmedia21_83091.png'></center>](https://t.me/DCTInvestGroup_Community)
 
-[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/1491579586-yumminkysocialmedia21_83091.png'></center>](https://www.reddit.com/user/DCTInvestGroup)
+[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/Reddit_social_media_corporate_logo_icon-icons.com_67675.png'></center>](https://www.reddit.com/user/DCTInvestGroup)
 
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/1491580651-yumminkysocialmedia28_83061.png'></center>](https://www.youtube.com/channel/UC-mJB5VEWUmpVt6PviMsUEA)
 
