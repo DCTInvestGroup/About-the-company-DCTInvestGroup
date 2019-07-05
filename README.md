@@ -59,7 +59,7 @@ It is necessary to develop an organizational infrastructure that would be focuse
 
 # TOKEN COMPANY
 
-<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/photo%20profile/CEO%20%26%20CTO%20-%20Sergei%20Pletnev.png'></center>
+<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/logo/LOGO_DCTIG_308х308.png'></center>
 
 - [ ] Name: DCT Invest Group
 - [ ] Symbol: DCTIG
@@ -79,10 +79,10 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 
 - [Total supply]: 	500.000.000 DCTIG
 - [General offer for TOKEN SALE]: 	220.000.000 DCTIG
-- [Token name (symbol)]: 	DCTIG
+- [Token name]: 	DCTIG
 - [Token Type]: 	ERC20
 - [Price]:	1 ETH = 50.000 DCTIG
-- [Limit of funds collected (HARD CAP)]: 	4400 ETH
+- [HARD CAP]: 	4400 ETH
 - [Minimum Invest]: 	0.01 ETH
 - [Gwei]: 10
 - [Gas Limit]: 100000
