@@ -59,13 +59,17 @@ It is necessary to develop an organizational infrastructure that would be focuse
 
 # TEAM DCTIG 
 
+[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/sidebar_sites_earth_world_globe_20458.png'></center>]
+
 - [Sergei Pletnev] 
-- [Facebook](https://www.facebook.com/sergei.pletnev.965) - [Twitter](https://twitter.com/ps_sergei)
+- [Facebook](https://www.facebook.com/sergei.pletnev.965)    - [Twitter](https://twitter.com/ps_sergei)
 
-CEO, CTO (Chief Executive Officer, Chief Technology Officer - experience in the field of economics for more than 10 years).
+CEO & CTO (Chief Executive Officer & Chief Technology Officer - experience in the field of economics for more than 10 years).
 
-- [Roman Khristenko] 
-- [Facebook](https://www.facebook.com/Rombik0428) - [Twitter](https://twitter.com/Rombik0428)
+[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/sidebar_sites_earth_world_globe_20458.png'></center>]
+
+- [Roman Khrystenko] 
+- [Facebook](https://www.facebook.com/Rombik0428)    - [Twitter](https://twitter.com/Rombik0428)
 
 CMO (Chief Marketing Officer - over 10 years experience in marketing).
 
