@@ -82,7 +82,7 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 - [Profile bitcointalk](https://bitcointalk.org/index.php?action=profile;u=2637634)
 
 
-[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/1491579586-yumminkysocialmedia21_83091.png'></center>](https://www.facebook.com/DCTInvestGroup)
+[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/sidebar_sites_earth_world_globe_20458.png'></center>](https://www.facebook.com/DCTInvestGroup)
 
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/1491579586-yumminkysocialmedia21_83091.png'></center>](https://www.facebook.com/DCTInvestGroup)
 
