@@ -77,16 +77,16 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 
 # TOKEN SALE (ICO) DCTIG
 
-- [Total supply]: 	500.000.000 DCTIG
-- [General offer for TOKEN SALE]: 	220.000.000 DCTIG
-- [Token name]: 	DCTIG
-- [Token Type]: 	ERC20
-- [Price]:	1 ETH = 50.000 DCTIG
-- [HARD CAP]: 	4400 ETH
-- [Minimum Invest]: 	0.01 ETH
-- [Gwei]: 10
-- [Gas Limit]: 100000
-- [Accepted cryptocurrency]: 	ETH
+- [Total supply]:500.000.000 DCTIG
+- [General offer for TOKEN SALE]:220.000.000 DCTIG
+- [Token name]:DCTIG
+- [Token Type]:ERC20
+- [Price]:1 ETH = 50.000 DCTIG
+- [HARD CAP]:4400 ETH
+- [Minimum Invest]:0.01 ETH
+- [Gwei]:10
+- [Gas Limit]:100000
+- [Accepted cryptocurrency]:ETH
 All unsold tokens will be destroyed (burned)
 
 
