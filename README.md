@@ -57,6 +57,20 @@ It is necessary to develop an organizational infrastructure that would be focuse
 
 •	improve the information technology used. 
 
+# TOKEN COMPANY
+
+## Name: DCT Invest Group
+## Symbol: DCTIG
+## Decimal: 8  
+## Basis Blockchain: Ethereum
+## DCTIG Token Type: ERC20
+## Total Token Emission: 500.000.000 DCTIG 
+
+>By purchasing our tokens, investors become participants in our ecosystem.
+>The owners of DCTIG tokens get the right to absolutely legally perform transactions with tokens, trade them on stock exchanges and >receive part of the profits from the investment fund in the form of dividends. 
+>And also, in the future, all proceeds from liquidity events (acquisition of a controlling stake of the company by a certain strategic >investor or the company entry into the public market) will be used to buy out tokens, thus giving investors the opportunity to benefit >from the growth of their value.
+
+
 # TEAM DCTIG 
 
 <center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/photo%20profile/CEO%20%26%20CTO%20-%20Sergei%20Pletnev.png'></center>
