@@ -105,6 +105,8 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 - [ ] 0.5 ETH or more Get 25.000 DCTIG With Bonus 10%
 - [ ] 0.1 ETH or more Get 5.000 DCTIG Without Bonus 
 
+### Investors from such countries as China, India, Vietnam, Thailand, Kyrgyzstan, Iceland are prohibited from investing in the DCT Invest Group (DCTIG).
+
 # DISTRIBUTION OF TOKENS
 
 - [ ] Total supply 500.000.000
@@ -112,7 +114,7 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 - [ ] Investment fund 120.000.000
 - [ ] Strategic partners and marketing 55.000.000
 - [ ] Company team and developers 100.000.000
-- [ ] Campaign "Bounty" and "Airdrop" 5.000.000
+- [ ] Campaign "Bounty" and "Airdrop" 5.000.000 
 
 # TEAM DCTIG 
 
