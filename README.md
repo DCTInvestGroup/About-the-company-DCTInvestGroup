@@ -11,13 +11,13 @@ The cryptocurrency market and the digital currency itself as such is an excellen
 
 Advantages of crypto-investment:
 
-•	You can start earning with a small starting capital.
+*	You can start earning with a small starting capital.
 
-•	Cryptocurrencies are at the beginning of their formation.
+*	Cryptocurrencies are at the beginning of their formation.
 
-•	Cryptocurrency is based on technologies that can completely change the world we are used to.
+*	Cryptocurrency is based on technologies that can completely change the world we are used to.
 
-•	Cryptocurrencies have already shown impressive coin value increases.
+*	Cryptocurrencies have already shown impressive coin value increases.
 
 # COMPANY MISSION
 
@@ -29,23 +29,23 @@ The strategic goal of the company is to achieve faster growth of the company val
 
 ## To achieve this goal, the necessary conditions are:
 
-•	Maintaining the financial stability of the company;
+*	Maintaining the financial stability of the company;
 
-•	Improving the efficiency of business areas;
+*	Improving the efficiency of business areas;
 
-•	Increasing the profitability of the investment Fund;
+*	Increasing the profitability of the investment Fund;
 
-•	Increase in the market capitalization of the company capital.
+*	Increase in the market capitalization of the company capital.
 
 ## The main objectives for achieving this goal are:
 
-•	Development of the main business areas (investing in startup ICO, cryptocurrency trading ,cryptocurrency deposits, investing in cryptocurrency funds, investing in applications for mobile devices, Internet marketing), increasing the profitability of operations, growth and diversification of the revenue base;
+*	Development of the main business areas (investing in startup ICO, cryptocurrency trading ,cryptocurrency deposits, investing in cryptocurrency funds, investing in applications for mobile devices, Internet marketing), increasing the profitability of operations, growth and diversification of the revenue base;
 
-•	To consistently increase key financial indicators thanks to increase the efficiency of the areas of investment, diversification of investments, effective management of liquidity;
+*	To consistently increase key financial indicators thanks to increase the efficiency of the areas of investment, diversification of investments, effective management of liquidity;
 
-•	Strictly control the level of costs and risk;
+*	Strictly control the level of costs and risk;
 
-•	To develop activities to provide intermediary services.
+*	To develop activities to provide intermediary services.
 
 It is necessary to develop an organizational infrastructure that would be focused on improving the manageability and efficiency of the company.
 
@@ -134,22 +134,18 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
 # ROADMAP FOR THE DEVELOPMENT OF THE COMPANY FOR THE YEARS 2019-2021
 
-•	Conducting ICO (Smart contract, Whitepaper)
-•	Marketing company
-•	Formation of an investment fund 
-•	Investing in areas specified in Whitepaper
-•	Creating and launching an investment platform 
+*	Conducting ICO (Smart contract, Whitepaper)
+
+*	Marketing company
+
+*	Formation of an investment fund 
+
+*	Investing in areas specified in Whitepaper
+
+*	Creating and launching an investment platform 
 
 
 ## DCT Invest Group contacts and social networks
-- [Website](https://dctinvestgroup.github.io) 
-- [Facebook](https://www.facebook.com/DCTInvestGroup)
-- [Twitter](https://twitter.com/DCTInvestGroup) 
-- [Telegram](https://t.me/DCTInvestGroup_Community)
-- [Reddit](https://www.reddit.com/user/DCTInvestGroup) 
-- [YouTube channel](https://www.youtube.com/channel/UC-mJB5VEWUmpVt6PviMsUEA)
-- [Profile bitcointalk](https://bitcointalk.org/index.php?action=profile;u=2637634)
-
 
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/sidebar_sites_earth_world_globe_20458.png'></center>](https://www.facebook.com/DCTInvestGroup)
 
