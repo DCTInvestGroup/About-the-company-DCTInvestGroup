@@ -51,13 +51,13 @@ It is necessary to develop an organizational infrastructure that would be focuse
 
 ## For this purpose it is planned:
 
-•	improve business processes;
+*	improve business processes;
 
-•	develop and improve a business planning system;
+*	develop and improve a business planning system;
 
-•	improve the efficiency of the risk management system;
+*	improve the efficiency of the risk management system;
 
-•	improve the information technology used. 
+*	improve the information technology used. 
 
 # TOKEN COMPANY
 
@@ -132,7 +132,13 @@ CMO (Chief Marketing Officer - over 10 years experience in marketing).
 
 The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
+# ROADMAP FOR THE DEVELOPMENT OF THE COMPANY FOR THE YEARS 2019-2021
 
+•	Conducting ICO (Smart contract, Whitepaper)
+•	Marketing company
+•	Formation of an investment fund 
+•	Investing in areas specified in Whitepaper
+•	Creating and launching an investment platform 
 
 
 ## DCT Invest Group contacts and social networks
@@ -158,6 +164,4 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/1491580651-yumminkysocialmedia28_83061.png'></center>](https://www.youtube.com/channel/UC-mJB5VEWUmpVt6PviMsUEA)
 
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/1486564396-mail_81524.png'></center>](dctinvestgroup@gmail.com)
-
-[<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/github_social_media_corporate_logo_icon-icons.com_67711.png'></center>](https://github.com/DCTInvestGroup/DCTIG.git)
 
