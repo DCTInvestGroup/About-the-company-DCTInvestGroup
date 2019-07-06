@@ -146,24 +146,17 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
 ## Frequently Asked Questions 
 
-* How to pass verification (KYC)? [2019-2021]
-[Yoti is a personal identification service provider.
-Yoti has an ISO27001 electronic identification certificate: with their help, you will be able to verify your identity without providing a driver's license or passport each time.  If you have verified your identity for Yoti, many companies, such as the DCT Invest Group, will also begin to trust you without asking your documents directly from you.
-Step one
-Download the official app from the Google Play store or from the Apple App Store on your mobile device.
-Step Two
-Create a Yoti profile.
-Step Three
-Send us a photo (screenshot) of your card registered in the Yoti app.]
+* How to pass verification (KYC)?
 
-Yoti is a personal identification service provider.
-Yoti has an ISO27001 electronic identification certificate: with their help, you will be able to verify your identity without providing a driver's license or passport each time.  If you have verified your identity for Yoti, many companies, such as the DCT Invest Group, will also begin to trust you without asking your documents directly from you.
-Step one
-Download the official app from the Google Play store or from the Apple App Store on your mobile device.
-Step Two
-Create a Yoti profile.
-Step Three
-Send us a photo (screenshot) of your card registered in the Yoti app.
+>Yoti is a personal identification service provider.
+>Yoti has an ISO27001 electronic identification certificate: with their help, you will be able to verify your identity without providing >a driver's license or passport each time.  If you have verified your identity for Yoti, many companies, such as the DCT Invest Group, >will also begin to trust you without asking your documents directly from you.
+>1) Download the official app from the Google Play store or from the Apple App Store on your mobile device.
+>2) Create a Yoti profile. 
+
+* How to invest in your company?
+
+>After you pass the verification procedure (KYC) by registering your profile in the Yoti application, you will be able to send your data >from the application to our e-mail dctinvestgroup@gmail.com
+>When we receive information about your data on our e-mail, we will send you an e-mail with an indication of the smart contract on which >you can invest in our company.
 
 
 
