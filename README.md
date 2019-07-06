@@ -144,6 +144,29 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
 *	Creating and launching an investment platform [2020] 
 
+## Frequently Asked Questions 
+
+* How to pass verification (KYC)? [2019-2021]
+[Yoti is a personal identification service provider.
+Yoti has an ISO27001 electronic identification certificate: with their help, you will be able to verify your identity without providing a driver's license or passport each time.  If you have verified your identity for Yoti, many companies, such as the DCT Invest Group, will also begin to trust you without asking your documents directly from you.
+Step one
+Download the official app from the Google Play store or from the Apple App Store on your mobile device.
+Step Two
+Create a Yoti profile.
+Step Three
+Send us a photo (screenshot) of your card registered in the Yoti app.]
+
+Yoti is a personal identification service provider.
+Yoti has an ISO27001 electronic identification certificate: with their help, you will be able to verify your identity without providing a driver's license or passport each time.  If you have verified your identity for Yoti, many companies, such as the DCT Invest Group, will also begin to trust you without asking your documents directly from you.
+Step one
+Download the official app from the Google Play store or from the Apple App Store on your mobile device.
+Step Two
+Create a Yoti profile.
+Step Three
+Send us a photo (screenshot) of your card registered in the Yoti app.
+
+
+
 ## DCT Invest Group contacts and social networks [dctinvestgroup@gmail.com]
 
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/sidebar_sites_earth_world_globe_20458.png'></center>](https://www.facebook.com/DCTInvestGroup)
