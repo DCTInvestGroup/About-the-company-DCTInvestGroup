@@ -19,7 +19,7 @@ Advantages of crypto-investment:
 
 # COMPANY MISSION
 
-The company mission is to create a business community, ensure the growth of welfare and enhance the economic potential of the business community by implementing the most profitable from an economic point of view, investment projects and investment products intended for a wide range of businesses and individuals. 
+>The company mission is to create a business community, ensure the growth of welfare and enhance the economic potential of the business >community by implementing the most profitable from an economic point of view, investment projects and investment products intended for >a wide range of businesses and individuals. 
 
 # COMPANY STRATEGIC GOAL
 
@@ -88,6 +88,22 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 - [ ] Gas Limit 100000
 - [ ] Accepted cryptocurrency:ETH
 All unsold tokens will be destroyed (burned)
+
+## TOKEN SALE BONUS
+
+### DCTIG TOKEN SALE (ICO) ROUND 1 (Time 15 Days) 
+
+- [ ] 1 ETH or more Get 25.000 DCTIG With Bonus 25%
+- [ ] 0.5 ETH or more Get 12.500 DCTIG With Bonus 15%
+- [ ] 0.1 ETH or more Get 2.500 DCTIG With Bonus 5%
+- [ ] 0.01 ETH Get 250 DCTIG Without Bonus 
+
+
+### DCTIG TOKEN SALE (ICO) ROUND 2 (Time 15 Days) 
+
+- [ ] 1 ETH or more Get 25.000 DCTIG With Bonus 15%
+- [ ] 0.5 ETH or more Get 12.500 DCTIG With Bonus 10%
+- [ ] 0.1 ETH or more Get 2.500 DCTIG Without Bonus 
 
 
 
