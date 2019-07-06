@@ -89,7 +89,7 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 - [ ] Gwei 10 
 - [ ] Gas Limit 100000
 - [ ] Accepted cryptocurrency: ETH
-All unsold tokens will be destroyed (burned)
+- [ ] All unsold tokens will be destroyed (burned)
 
 ## TOKEN SALE BONUS
 
