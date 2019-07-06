@@ -145,7 +145,7 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 *	Creating and launching an investment platform 
 
 
-## DCT Invest Group contacts and social networks
+## DCT Invest Group contacts and social networks [dctinvestgroup@gmail.com]
 
 [<center><img src='https://github.com/DCTInvestGroup/About-the-company-DCTInvestGroup/blob/master/image/icon/sidebar_sites_earth_world_globe_20458.png'></center>](https://www.facebook.com/DCTInvestGroup)
 
