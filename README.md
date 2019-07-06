@@ -1,4 +1,4 @@
-# About-the-company-DCTInvestGroup
+# Company DCTInvestGroup
 An overview of the activities of the company
 
 ## DCT invest Group (DCTIG) is an investment company and is created for investing capital and making profit in the following areas: decentralization, cryptocurrency, technology.
