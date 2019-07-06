@@ -1,7 +1,9 @@
 # Company DCTInvestGroup
 An overview of the activities of the company
 
-## DCT invest Group (DCTIG) is an investment company and is created for investing capital and making profit in the following areas: decentralization, cryptocurrency, technology.
+## DCT Invest Group - your guide in the world of investment and finance.
+
+### DCT invest Group (DCTIG) is an investment company and is created for investing capital and making profit in the following areas: decentralization, cryptocurrency, technology.
 
 Investing in cryptocurrency has great potential.  A good investment can bring huge dividends.
 
@@ -19,7 +21,7 @@ Advantages of crypto-investment:
 
 # COMPANY MISSION
 
->The company mission is to create a business community, ensure the growth of welfare and enhance the economic potential of the business >community by implementing the most profitable from an economic point of view, investment projects and investment products intended for >a wide range of businesses and individuals. 
+> The company mission is to create a business community, ensure the growth of welfare and enhance the economic potential of the business > community by implementing the most profitable from an economic point of view, investment projects and investment products intended for > a wide range of businesses and individuals. 
 
 # COMPANY STRATEGIC GOAL
 
@@ -68,21 +70,21 @@ It is necessary to develop an organizational infrastructure that would be focuse
 - [ ] DCTIG Token Type: ERC20
 - [ ] Total Token Emission: 500.000.000 DCTIG 
 
->By purchasing our tokens, investors become participants in our ecosystem.
->The owners of DCTIG tokens get the right to absolutely legally perform transactions with tokens, trade them on stock exchanges and >receive part of the profits from the investment fund in the form of dividends. 
->And also, in the future, all proceeds from liquidity events (acquisition of a controlling stake of the company by a certain strategic >investor or the company entry into the public market) will be used to buy out tokens, thus giving investors the opportunity to benefit >from the growth of their value.
+> By purchasing our tokens, investors become participants in our ecosystem.
+> The owners of DCTIG tokens get the right to absolutely legally perform transactions with tokens, trade them on stock exchanges and    > receive part of the profits from the investment fund in the form of dividends. 
+> And also, in the future, all proceeds from liquidity events (acquisition of a controlling stake of the company by a certain strategic > investor or the company entry into the public market) will be used to buy out tokens, thus giving investors the opportunity to benefit > from the growth of their value.
 
 ## In accordance with the norms of our company, investors need to go through the KYC procedure in order to purchase DCTIG tokens. 
 The KYC procedure is carried out by investors who invest more than 1 Ethereum in the company.
 
 # TOKEN SALE (ICO) DCTIG
 
-- [ ] Total supply:850.000.000 DCTIG
-- [ ] General offer for TOKEN SALE:400.000.000 DCTIG
+- [ ] Total supply:500.000.000 DCTIG
+- [ ] General offer for TOKEN SALE:220.000.000 DCTIG
 - [ ] Token name (symbol):DCTIG
 - [ ] Token Type:ERC20 
-- [ ] Price:1 ETH = 25.000 DCTIG
-- [ ] Limit of funds collected (HARD CAP):16000 ETH
+- [ ] Price:1 ETH = 50.000 DCTIG
+- [ ] Limit of funds collected (HARD CAP):4400 ETH
 - [ ] Minimum Invest:0.01 ETH
 - [ ] Gwei 10 
 - [ ] Gas Limit 100000
@@ -105,7 +107,14 @@ All unsold tokens will be destroyed (burned)
 - [ ] 0.5 ETH or more Get 12.500 DCTIG With Bonus 10%
 - [ ] 0.1 ETH or more Get 2.500 DCTIG Without Bonus 
 
+# DISTRIBUTION OF TOKENS
 
+- [ ] Total supply 500.000.000
+- [ ] Available for purchase 220.000.000
+- [ ] Investment fund 120.000.000
+- [ ] Strategic partners and marketing 55.000.000
+- [ ] The company team and developers 100.000.000
+- [ ] Campaign "Bounty" and "Airdrop" 5.000.000
 
 
 
