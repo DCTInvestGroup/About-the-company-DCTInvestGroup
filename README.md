@@ -134,16 +134,15 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
 # ROADMAP FOR THE DEVELOPMENT OF THE COMPANY FOR THE YEARS 2019-2021
 
-*	Conducting ICO (Smart contract, Whitepaper)
+*	Conducting ICO (Smart contract, Whitepaper) [2019]
 
-*	Marketing company
+*	Marketing company [2019-2021]
 
-*	Formation of an investment fund 
+*	Formation of an investment fund [2019] 
 
-*	Investing in areas specified in Whitepaper
+*	Investing in areas specified in Whitepaper [2019-2021]
 
-*	Creating and launching an investment platform 
-
+*	Creating and launching an investment platform [2020] 
 
 ## DCT Invest Group contacts and social networks [dctinvestgroup@gmail.com]
 
