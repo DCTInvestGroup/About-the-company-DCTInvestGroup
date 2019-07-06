@@ -79,33 +79,33 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 
 # TOKEN SALE (ICO) DCTIG
 
-- [ ] Total supply:500.000.000 DCTIG
-- [ ] General offer for TOKEN SALE:220.000.000 DCTIG
-- [ ] Token name (symbol):DCTIG
-- [ ] Token Type:ERC20 
-- [ ] Price:1 ETH = 50.000 DCTIG
-- [ ] Limit of funds collected (HARD CAP):4400 ETH
-- [ ] Minimum Invest:0.01 ETH
+- [ ] Total supply: 500.000.000 DCTIG
+- [ ] General offer for TOKEN SALE: 220.000.000 DCTIG
+- [ ] Token name (symbol): DCTIG
+- [ ] Token Type: ERC20 
+- [ ] Price: 1 ETH = 50.000 DCTIG
+- [ ] Limit of funds collected (HARD CAP): 4400 ETH
+- [ ] Minimum Invest: 0.01 ETH
 - [ ] Gwei 10 
 - [ ] Gas Limit 100000
-- [ ] Accepted cryptocurrency:ETH
+- [ ] Accepted cryptocurrency: ETH
 All unsold tokens will be destroyed (burned)
 
 ## TOKEN SALE BONUS
 
 ### DCTIG TOKEN SALE (ICO) ROUND 1 (Time 15 Days) 
 
-- [ ] 1 ETH or more Get 25.000 DCTIG With Bonus 25%
-- [ ] 0.5 ETH or more Get 12.500 DCTIG With Bonus 15%
-- [ ] 0.1 ETH or more Get 2.500 DCTIG With Bonus 5%
-- [ ] 0.01 ETH Get 250 DCTIG Without Bonus 
+- [ ] 1 ETH or more Get 50.000 DCTIG With Bonus 25%
+- [ ] 0.5 ETH or more Get 25.000 DCTIG With Bonus 15%
+- [ ] 0.1 ETH or more Get 5.000 DCTIG With Bonus 5%
+- [ ] 0.01 ETH Get 500 DCTIG Without Bonus 
 
 
 ### DCTIG TOKEN SALE (ICO) ROUND 2 (Time 15 Days) 
 
-- [ ] 1 ETH or more Get 25.000 DCTIG With Bonus 15%
-- [ ] 0.5 ETH or more Get 12.500 DCTIG With Bonus 10%
-- [ ] 0.1 ETH or more Get 2.500 DCTIG Without Bonus 
+- [ ] 1 ETH or more Get 50.000 DCTIG With Bonus 15%
+- [ ] 0.5 ETH or more Get 25.000 DCTIG With Bonus 10%
+- [ ] 0.1 ETH or more Get 5.000 DCTIG Without Bonus 
 
 # DISTRIBUTION OF TOKENS
 
