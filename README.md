@@ -97,9 +97,7 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 
 - [ ] 1 ETH or more Get 50.000 DCTIG With Bonus 25%
 - [ ] 0.5 ETH or more Get 25.000 DCTIG With Bonus 15%
-- [ ] 0.1 ETH or more Get 5.000 DCTIG With Bonus 5%
-- [ ] 0.01 ETH Get 500 DCTIG Without Bonus 
-
+- [ ] 0.1 ETH or more Get 5.000 DCTIG With Bonus 5% 
 
 ### DCTIG TOKEN SALE (ICO) ROUND 2 (Time 15 Days) 
 
@@ -113,10 +111,8 @@ The KYC procedure is carried out by investors who invest more than 1 Ethereum in
 - [ ] Available for purchase 220.000.000
 - [ ] Investment fund 120.000.000
 - [ ] Strategic partners and marketing 55.000.000
-- [ ] The company team and developers 100.000.000
+- [ ] Company team and developers 100.000.000
 - [ ] Campaign "Bounty" and "Airdrop" 5.000.000
-
-
 
 # TEAM DCTIG 
 
@@ -135,6 +131,8 @@ CEO & CTO (Chief Executive Officer & Chief Technology Officer - experience in th
 CMO (Chief Marketing Officer - over 10 years experience in marketing).
 
 The DCT Invest Group team has been investing in cryptocurrency since 2017.
+
+
 
 
 ## DCT Invest Group contacts and social networks
