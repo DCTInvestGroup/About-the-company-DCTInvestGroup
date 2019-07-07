@@ -134,7 +134,11 @@ CMO (Chief Marketing Officer - over 10 years experience in marketing).
 
 The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
-# ROADMAP FOR THE DEVELOPMENT OF THE COMPANY FOR THE YEARS 2019-2021
+# ROADMAP FOR THE DEVELOPMENT OF THE COMPANY FOR THE YEARS 2017-2021
+
+*	Emergence of ideas, analysis of investment development [2017]
+
+*	Analysis of investment methods and the practice of their application, the study of the market and competitors [2017-2018]
 
 *	Conducting ICO (Smart contract, Whitepaper) [2019]
 
