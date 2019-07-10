@@ -167,7 +167,7 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 
 * What exchanges will your token be added to?
 
-### DCTIG token listing on exchanges 
+#### DCTIG token listing on exchanges 
 After TOKEN SALE, the DCTIG token can be bought or sold on the following exchanges:
 - [ ]	Forkdelta - [https://forkdelta.github.io/] 
 - [ ]	IDEX - [https://idex.market/]
