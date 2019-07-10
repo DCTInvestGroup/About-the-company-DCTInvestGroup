@@ -173,7 +173,7 @@ After TOKEN SALE, the DCTIG token can be bought or sold on the following exchang
 - [ ]	IDEX - [https://idex.market/]
 - [ ]	YoBit - [https://yobit.net/]
 - [ ]	DDEX - [https://ddex.io/]
-Also, in the future, the DCTIG token will be added to other exchanges. 
+* Also, in the future, the DCTIG token will be added to other exchanges. 
 
 ## DCT Invest Group contacts and social networks [dctinvestgroup@gmail.com]
 
