@@ -158,11 +158,13 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 >Yoti has an ISO27001 electronic identification certificate: with their help, you will be able to verify your identity without providing >a driver's license or passport each time.  If you have verified your identity for Yoti, many companies, such as the DCT Invest Group, >will also begin to trust you without asking your documents directly from you.
 >1) Download the official app from the Google Play store or from the Apple App Store on your mobile device.
 >2) Create a Yoti profile. 
+>3) Enter all the necessary information in your profile.
 
 * How to invest in your company?
 
->After you pass the verification procedure (KYC) by registering your profile in the Yoti application, you will be able to send your data >from the application to our e-mail dctinvestgroup@gmail.com
->When we receive information about your data on our e-mail, we will send you an e-mail with an indication of the smart contract on which >you can invest in our company.
+>After you complete the verification procedure (KYC) by registering your profile in the Yoti application, you can take a screenshot of >your data ([Photo], [Full Name], [Date of Birth], [Email], [Nationality], [Address], [Passport Details]) and send them to our email    >[dctinvestgroup@gmail.com]
+>When we receive information about your data to our email, we will send you a message in the mail indicating the smart contract for >which you can invest in our company.
+>The DCT Invest Group (DCTIG) respects all the privacy rights of your personal data.
 
 
 
