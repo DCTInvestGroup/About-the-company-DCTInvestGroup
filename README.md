@@ -75,7 +75,6 @@ It is necessary to develop an organizational infrastructure that would be focuse
 > And also, in the future, all proceeds from liquidity events (acquisition of a controlling stake of the company by a certain strategic > investor or the company entry into the public market) will be used to buy out tokens, thus giving investors the opportunity to benefit > from the growth of their value.
 
 ## In accordance with the norms of our company, investors need to go through the KYC procedure in order to purchase DCTIG tokens. 
-The KYC procedure is carried out by investors who invest more than 1 Ethereum in the company.
 
 # TOKEN SALE (ICO) DCTIG
 
