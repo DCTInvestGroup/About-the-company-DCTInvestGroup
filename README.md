@@ -166,7 +166,15 @@ The DCT Invest Group team has been investing in cryptocurrency since 2017.
 >When we receive information about your data to our email, we will send you a message in the mail indicating the smart contract for >which you can invest in our company.
 >The DCT Invest Group (DCTIG) respects all the privacy rights of your personal data.
 
+* What exchanges will your token be added to?
 
+### DCTIG token listing on exchanges 
+After TOKEN SALE, the DCTIG token can be bought or sold on the following exchanges:
+- [ ]	Forkdelta - [https://forkdelta.github.io/] 
+- [ ]	IDEX - [https://idex.market/]
+- [ ]	YoBit - [https://yobit.net/]
+- [ ]	DDEX - [https://ddex.io/]
+Also, in the future, the DCTIG token will be added to other exchanges. 
 
 ## DCT Invest Group contacts and social networks [dctinvestgroup@gmail.com]
 
